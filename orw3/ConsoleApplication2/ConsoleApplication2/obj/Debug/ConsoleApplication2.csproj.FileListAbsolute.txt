@@ -16,3 +16,12 @@ C:\Users\akiel\Desktop\Zacny\orw3\ConsoleApplication2\ConsoleApplication2\bin\De
 C:\Users\akiel\Desktop\Zacny\orw3\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
 C:\Users\akiel\Desktop\Zacny\orw3\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
 C:\Users\akiel\Desktop\Zacny\orw3\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Zacny\laborki\orw3\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Zacny\laborki\orw3\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Zacny\laborki\orw3\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Zacny\laborki\orw3\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe
+C:\Zacny\laborki\orw3\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
+C:\Zacny\laborki\orw3\ConsoleApplication2\ConsoleApplication2\bin\Debug\HtmlAgilityPack.dll
+C:\Zacny\laborki\orw3\ConsoleApplication2\ConsoleApplication2\bin\Debug\HtmlAgilityPack.pdb
+C:\Zacny\laborki\orw3\ConsoleApplication2\ConsoleApplication2\bin\Debug\HtmlAgilityPack.xml
+C:\Zacny\laborki\orw3\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache

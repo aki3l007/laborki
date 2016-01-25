@@ -7,3 +7,6 @@ c:\users\michał\documents\visual studio 2012\Projects\ConsoleApplication2\Conso
 c:\users\michał\documents\visual studio 2012\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
 c:\users\michał\documents\visual studio 2012\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
 c:\users\michał\documents\visual studio 2012\Projects\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
+C:\Zacny\laborki\orw2\orw2\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.exe.config
+C:\Zacny\laborki\orw2\orw2\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
+C:\Zacny\laborki\orw2\orw2\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
